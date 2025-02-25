@@ -1,3 +1,4 @@
+"use client";
 import { PokemonDisplay } from "@/components/PokemonDisplay";
 import { Button } from "@/components/ui/button";
 
