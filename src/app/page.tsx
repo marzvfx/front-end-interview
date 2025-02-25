@@ -7,15 +7,15 @@ export default function Home() {
       <div className="flex flex-wrap gap-4 p-4">
         <PokemonDisplay
           name="Bulbasaur"
-          sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+          sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png"
         />
         <PokemonDisplay
           name="Charmander"
-          sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+          sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png"
         />
         <PokemonDisplay
           name="Squirtle"
-          sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+          sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png"
         />
       </div>
       <div className="flex flex-row gap-4">
