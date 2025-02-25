@@ -2,6 +2,13 @@
 
 This is a simple web application that uses the pokemon apo to display a list of pokemon and there details.
 
+## Installation
+
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm run dev` to start the development server
+4. Open your browser and navigate to `http://localhost:3000`
+
 ## Challenge
 
 1. Modify the `page.tsx` file to fetch the first 20 pokemon from the pokemon api and display the pokemons name and
